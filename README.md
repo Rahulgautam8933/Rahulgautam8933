@@ -10,7 +10,7 @@
 - 📫 How to reach me **rahulgautam8933@gmail.com**
   <p>
     Resume:
-  <a href="https://drive.google.com/file/d/1c8HfNZvqBUnpAZoG1ErIEWZv-xOUIAxu/view"><i style="font-size:24px" class="fa">&#xf019;</i></a>
+  <a href="https://drive.google.com/file/d/1c8HfNZvqBUnpAZoG1ErIEWZv-xOUIAxu/view">Download</a>
   </p>
 
 <h3 align="left">Connect with me:</h3>
