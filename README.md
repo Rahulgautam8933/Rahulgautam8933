@@ -8,7 +8,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **rahulgautam8933@gmail.com**
+  <p>
+    
   <a href="https://drive.google.com/file/d/1c8HfNZvqBUnpAZoG1ErIEWZv-xOUIAxu/view">Resume</a>
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
