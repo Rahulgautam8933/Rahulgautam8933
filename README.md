@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Gautam</h1>
+<!-- <h1 align="center">Hi 👋, I'm Rahul Gautam</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgautam8933&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgautam8933" /> </p>
@@ -28,4 +28,79 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgautam8933&" alt="rahulgautam8933" /></p>
 
-![snake gif](https://github.com/Rahulgautam8933/Rahulgautam8933/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Rahulgautam8933/Rahulgautam8933/blob/output/github-contribution-grid-snake.svg) -->
+
+
+<h1 align="center">Hi 👋, I'm Rahul Gautam</h1>
+<h3 align="center">🚀 Passionate MERN Stack Developer | React • Node • MongoDB • Next.js</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulgautam8933&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="rahulgautam8933" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahulgautam8933&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working on **Full Stack MERN Projects**
+- 💡 Exploring **System Design & Scalable Backend Architectures**
+- 💬 Ask me about **React, Node.js, MongoDB, REST APIs**
+- 📫 Reach me at: **rahulgautam8933@gmail.com**
+
+📄 **Resume:**  
+<a href="https://drive.google.com/file/d/1c8HfNZvqBUnpAZoG1ErIEWZv-xOUIAxu/view" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge" />
+</a>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rahul-gautam8933" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/rahu90052/" target="blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
+
+---
+
+### 🛠 Languages & Tools
+
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,mongodb,java,git,tailwind,reactnative" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulgautam8933&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgautam8933&show_icons=true&locale=en&layout=compact&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgautam8933&theme=radical" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Rahulgautam8933/Rahulgautam8933/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I don’t just write code — I build scalable solutions that solve real-world problems.
