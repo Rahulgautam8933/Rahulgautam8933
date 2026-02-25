@@ -35,13 +35,15 @@
 <h3 align="center">🚀 Passionate MERN Stack Developer | React • Node • MongoDB • Next.js</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulgautam8933&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="rahulgautam8933" />
+  <img src="https://komarev.com/ghpvc/?username=Rahulgautam8933&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahulgautam8933&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahulgautam8933&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
