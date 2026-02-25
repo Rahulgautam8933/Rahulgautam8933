@@ -40,11 +40,9 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahulgautam8933&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rahulgautam8933&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
   </a>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rahulgautam8933&theme=onedark)](https://github.com/Rahulgautam8933/github-profile-trophy)
 
 ---
 
